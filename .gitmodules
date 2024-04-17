@@ -6,13 +6,13 @@
 	url = https://github.com/taylor-jones/open-semantic-etl.git
 [submodule "src/solr-ontology-tagger"]
 	path = src/solr-ontology-tagger
-	url = https://github.com/opensemanticsearch/solr-ontology-tagger.git
+	url = https://github.com/taylor-jones/solr-ontology-tagger.git
 [submodule "src/open-semantic-visual-graph-explorer"]
 	path = src/open-semantic-visual-graph-explorer
 	url = https://github.com/opensemanticsearch/open-semantic-visual-graph-explorer.git
 [submodule "src/open-semantic-search-apps"]
 	path = src/open-semantic-search-apps
-	url = https://github.com/opensemanticsearch/open-semantic-search-apps.git
+	url = https://github.com/taylor-jones/open-semantic-search-apps.git
 [submodule "src/open-semantic-entity-search-api"]
 	path = src/open-semantic-entity-search-api
 	url = https://github.com/taylor-jones/open-semantic-entity-search-api.git
@@ -21,7 +21,7 @@
 	url = https://github.com/opensemanticsearch/solr-relevance-ranking-analysis.git
 [submodule "src/solr.deb"]
 	path = src/solr.deb
-	url = https://github.com/opensemanticsearch/solr.deb.git
+	url = https://github.com/taylor-jones/solr.deb.git
 [submodule "src/tika-server.deb"]
 	path = src/tika-server.deb
 	url = https://github.com/opensemanticsearch/tika-server.deb.git
