@@ -15,7 +15,7 @@
 	url = https://github.com/opensemanticsearch/open-semantic-search-apps.git
 [submodule "src/open-semantic-entity-search-api"]
 	path = src/open-semantic-entity-search-api
-	url = https://github.com/opensemanticsearch/open-semantic-entity-search-api.git
+	url = https://github.com/taylor-jones/open-semantic-entity-search-api.git
 [submodule "src/solr-relevance-ranking-analysis"]
 	path = src/solr-relevance-ranking-analysis
 	url = https://github.com/opensemanticsearch/solr-relevance-ranking-analysis.git
